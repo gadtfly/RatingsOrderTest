@@ -39,3 +39,5 @@ gem 'spring',        group: :development
 # gem 'debugger', group: [:development, :test]
 
 gem 'rspec-rails'
+gem 'letsrate', git: 'https://github.com/wazery/letsrate'
+gem 'devise'
